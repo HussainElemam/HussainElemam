@@ -5,11 +5,19 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Languages & Technologies  
 
-- **Flutter** (Mobile & cross-platform apps)
-- **React** (Web interfaces)
-- **Python** (General programming & scripting)
+- **Web, Development:**  
+  HTML, CSS, JavaScript, TypeScript, React 
+
+- **Mobile Development:**  
+  Flutter
+
+- **Programming Languages:**  
+  Python, Java, C++, Dart, JavaScript
+
+- **AI & ML:**  
+  Experience with Artificial Intelligence and Machine Learning projects
 
 ---
 
