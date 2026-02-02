@@ -31,7 +31,7 @@
 
 ## 🌱 About Me
 
-I love writing code and bringing ideas to life. Always learning, always building!
+I love building software and bringing ideas to life. Always learning, always building!
 
 ---
 
